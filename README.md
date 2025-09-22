@@ -48,8 +48,10 @@ Deep Dream adalah algoritma generatif yang dikembangkan oleh Google untuk mengha
 - **Hugging Face** – Platform dengan berbagai model pre-trained seperti GPT-2, BERT, T5 untuk generasi teks dan pemrosesan bahasa alami.
 - **NVIDIA StyleGAN** – Framework untuk generasi gambar dengan menggunakan GANs.
 
-## 📚 Referensi Belajar
+## 📚 My Notes
+- [Attention In Transformers](https://www.canva.com/design/DAGthEqvgFA/7Oy0t6uQ5mlSXuwBWbBS_A/edit)
 
+## 📚 Referensi Belajar
 - [Generative Deep Learning by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041914/)
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [OpenAI GPT-3](https://beta.openai.com/docs/)
